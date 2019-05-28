@@ -1,0 +1,24 @@
+{
+    "invenQeue": [
+            {
+            "strainName": "Marathon OG",
+            "batchNumber": "03863",
+            "bagNumber": "1",
+            "dotColor": "yellow",
+            "weight": "471 w/b",
+            "startDate": "05/10/2019",
+            "packedBy": "Hundo",
+            "output": {
+                "waste": "6.8",
+                "JarCount": "123",
+                "dateComplete": "05/11/2019",
+                "finishedBy": "Daily"
+            },
+            "strainType": "indica"
+        
+
+    }
+    
+
+]
+}
